@@ -42,6 +42,7 @@ Input | Output
 --- | ---
 `--range g` | **-1**
 `--help name` | **-1**
+`--label` | **-1**
 `--blah` | **-1**
 `--label SOME_LABEL --range 10` | **0**
 `--raNGe 44` | **0**
